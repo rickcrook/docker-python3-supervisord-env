@@ -1,6 +1,6 @@
 FROM ubuntu:13.10
 
-MAINTAINER Arnaud Chen-yen-su arnaud.chenyensu@gmail.com
+MAINTAINER Richard Crook richard@pinkgrass.org
 
 # make sure the package repository is up to date
 RUN apt-get update
